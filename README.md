@@ -1,5 +1,6 @@
 <h1 align="center">Hi, i'm Estefania Zapata</h1>
-<h3 align="center">I'm a Data Scientist with a unique background as a lawyer and communication advisor for various companies I have knowledge in agile methodologies, workflow processes, data structures, model evaluation, machine learning, ETL, and data visualization. I have experience in data cleaning processes, data engineering, MLops, and report generation using Python, SQL, and Power BI.</h3>
+<h3 align="center">I am an electronic engineer, with an emphasis on data analysis, with a B1 level of English. I have experience in data collection, analysis and visualization to help companies with their projects. I have developed skills in data mining, statistical analysis, dashboards, report creation and database management. I have knowledge of tools such as Python with Pandas and ETL, SQL Server, Advanced Excel, Power Bi, Tableau and agile methodologies. Likewise, I have skills in attention to detail, results orientation, teamwork and I am focused on continuous learning.
+Currently, I am looking for job opportunities and new challenges in the data area in positions such as Data Analyst..</h3>
 
 - 💬 Ask me about **SQL, Power Bi, Python, Javascript**
 
